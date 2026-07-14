@@ -1,5 +1,0 @@
-You need to rename these pictures to the file names set in the main logic and put them in the path you set in the main logic.
-
-These pictures are just examples provided by me, which does not mean that this program can only be compatible with these pictures.
-
-At present, only square jpg images have been tested and are guaranteed to work; png images remain untested.
