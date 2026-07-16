@@ -1,5 +1,5 @@
 # Copyright (c) 2026 xuanfeng0316
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: GPL-3.0-or-later
 #
 # By xuanfeng0316
 #
